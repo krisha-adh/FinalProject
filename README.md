@@ -1,4 +1,4 @@
-# E-Commerce Analytics & Business Intelligence (`FinalProject`)
+# E-Commerce Analytics (`FinalProject`)
 
 ## 1. Project Overview
 
